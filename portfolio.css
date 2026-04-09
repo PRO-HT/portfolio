@@ -202,9 +202,9 @@ nav a:hover {
     font-family: 'Fraunces', serif;
     font-size: 42px;
     font-weight: 700;
-    color: var(--texto);
+    color: var(--ocre-escuro);
     margin-bottom: 14px;
-    line-height: 1.1;
+    line-height: 2.1;
 }
 
 .titulo-secao.centro {
